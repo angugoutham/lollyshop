@@ -1,0 +1,12 @@
+{
+    "name": "sbApi1.1",
+    "main": "server.js",
+    "dependencies": {
+        "express": "~4.0.0",
+        "body-parser": "~1.0.1",
+	    "debug": "~2.2.0",
+	    "request"    : "latest",
+	    "apac":"latest",
+	    "cheerio"    : "latest"
+    }
+}
